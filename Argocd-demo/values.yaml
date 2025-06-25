@@ -1,4 +1,4 @@
 image:
-  repository: mbunwevicki100/nginx-demo  
+  repository: mbunwevicki/nginx-demo  
   tag: "0.1.0"
   pullPolicy: IfNotPresent
